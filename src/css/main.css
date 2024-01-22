@@ -125,3 +125,13 @@ h2{
 }
 
 /* section 3 */
+#professional-challenges{
+    text-align: center;
+    width: 800px;
+}
+
+#professional-challenges img{
+    margin: 32px 0;
+}
+
+/* footer */
