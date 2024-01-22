@@ -24,7 +24,7 @@ body{
 }
 
 .banner .logo{
-    background-color: rgba(0,0,0 0.2);
+    background-color: rgba(0, 0, 0, .2);
     height: 260px;
     width: 260px;
     margin: auto;
@@ -70,3 +70,39 @@ body{
 p{
     color: #fff;
 }
+
+/* main - section 1 */
+section{
+    margin: 100px auto;
+}
+
+#course-content{
+    width: 800px;
+    text-align: center;
+}
+
+h2{
+    font-size: 2rem;
+    color: #33a8db;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+#course-content .modules-list{
+    margin: 24px 0;
+}
+
+#course-content .modules-list .module{
+    color: #fff;
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #33a8db;
+    background-color: #252525;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0,0,0, .7);
+}
+
+/* section 2 */
